@@ -1,0 +1,1 @@
+# A Message Producer for scrapy pipeline.
